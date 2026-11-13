@@ -60,9 +60,4 @@ Static review identified a cart integration mismatch: `index.js` passes a numeri
 
 ## 7. Authorship and contribution
 
-Developed as a team project. [João Vaz](https://github.com/jg2alv) implemented the cart across frontend and backend, developed WhatsApp checkout, and wrote tests for both features. The catalogue, administration, architecture, and documentation are not attributed solely to João.
-
-<!--
-### Team members
-
--->
+Developed as a team project. I implemented the cart across frontend and backend, developed WhatsApp checkout, and wrote tests for both features. The catalogue, administration, architecture, and documentation are not attributed solely to me.
